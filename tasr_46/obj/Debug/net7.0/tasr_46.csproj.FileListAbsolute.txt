@@ -1,0 +1,15 @@
+D:\C#\Seminar_7\tasr_46\obj\Debug\net7.0\tasr_46.csproj.AssemblyReference.cache
+D:\C#\Seminar_7\tasr_46\obj\Debug\net7.0\tasr_46.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Seminar_7\tasr_46\obj\Debug\net7.0\tasr_46.AssemblyInfoInputs.cache
+D:\C#\Seminar_7\tasr_46\obj\Debug\net7.0\tasr_46.AssemblyInfo.cs
+D:\C#\Seminar_7\tasr_46\obj\Debug\net7.0\tasr_46.csproj.CoreCompileInputs.cache
+D:\C#\Seminar_7\tasr_46\bin\Debug\net7.0\tasr_46.exe
+D:\C#\Seminar_7\tasr_46\bin\Debug\net7.0\tasr_46.deps.json
+D:\C#\Seminar_7\tasr_46\bin\Debug\net7.0\tasr_46.runtimeconfig.json
+D:\C#\Seminar_7\tasr_46\bin\Debug\net7.0\tasr_46.dll
+D:\C#\Seminar_7\tasr_46\bin\Debug\net7.0\tasr_46.pdb
+D:\C#\Seminar_7\tasr_46\obj\Debug\net7.0\tasr_46.dll
+D:\C#\Seminar_7\tasr_46\obj\Debug\net7.0\refint\tasr_46.dll
+D:\C#\Seminar_7\tasr_46\obj\Debug\net7.0\tasr_46.pdb
+D:\C#\Seminar_7\tasr_46\obj\Debug\net7.0\tasr_46.genruntimeconfig.cache
+D:\C#\Seminar_7\tasr_46\obj\Debug\net7.0\ref\tasr_46.dll
